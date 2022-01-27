@@ -1,4 +1,4 @@
-# How to update Unstoppable Wallet? дей
+# How to update Unstoppable Wallet?
 
 The Unstoppable is constantly a work in progress and therefore it's recommended to always use the latest version of the wallet app.
 
